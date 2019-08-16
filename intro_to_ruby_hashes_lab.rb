@@ -1,6 +1,6 @@
 def base_hash
-	{
-	  game: "Board"
+	monopoly = {
+	  railroads: {}
 	}
 end
 
